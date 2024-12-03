@@ -26,8 +26,8 @@ Site-ul este publicat și poate fi accesat la următoarea adresă:
 
 ## Tehnologii utilizate
 - **HTML5** pentru structura conținutului.
-- **CSS3** pentru stilizare (tema dark).
-- **JavaScript** pentru interactivitate (slideshow).
+- **CSS3** pentru stilizare.
+- **JavaScript** pentru interactivitate.
 
 ## Publicare
 Proiectul a fost publicat folosind GitHub Pages.
