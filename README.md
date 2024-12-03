@@ -32,9 +32,3 @@ Site-ul este publicat și poate fi accesat la următoarea adresă:
 ## Publicare
 Proiectul a fost publicat folosind GitHub Pages.
 
----
-
-### Instrucțiuni pentru rulare locală
-1. Clonează acest repository:
-   ```bash
-   git clone https://github.com/bujixd1/prezentare-resurse.git
